@@ -1,16 +1,16 @@
-<style> img {border-radius: 8px}</style>
+
 
 # Hello,
 
 ## I'm Vladislav Milka - React developer from Ukraine
 
-<h2>About</h2>
+## About
 
 I have good skills in HTML, CSS, and JavaScript. I also know how to make sites on the Tilda platform. I have skills in working with SQLite, MySQL, and MongoDB. A few years ago I started to learn React. Now I am dive into NestJS.
 
 ---
 
-<h3> Skills: </h3>
+## Skills:
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
